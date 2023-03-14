@@ -1,0 +1,9 @@
+After Grid displays, we need two empty lines. done
+
+Who is shooting? done
+
+tell us the result of the shot and put one empty line done
+
+put a space after the hit/miss to keep spacing accurate done
+
+winner not declared after all ships sunk done
